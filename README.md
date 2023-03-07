@@ -2,6 +2,6 @@
 `cd StarterPackExosky`  <br/>
 `pnpm install`  <br/>
 `sudo rm -r .git` <br/>
-`prisma generate` <br/>
+`npx prisma generate` <br/>
 
 SCSS, Prisma, Zod, Tailwind, Next
