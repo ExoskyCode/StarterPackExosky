@@ -4,4 +4,4 @@
 `sudo rm -r .git` <br/>
 `npx prisma generate` <br/>
 
-SCSS, Prisma, Zod, Tailwind, Next
+SCSS, Prisma, Zod, Tailwind, Next13.1.6
